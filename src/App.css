@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+#table{
+  background-image: linear-gradient(to right,purple,#61dafb);
+  color: white;
+  width: 20vw;
+  margin:auto;
+  text-align:center;
+  margin-top: 30px;
+}
